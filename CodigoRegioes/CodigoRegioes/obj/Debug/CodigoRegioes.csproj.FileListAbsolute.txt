@@ -1,0 +1,10 @@
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\Projeto\CodigoRegioes\CodigoRegioes\obj\Debug\CodigoRegioes.csproj.AssemblyReference.cache
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\Projeto\CodigoRegioes\CodigoRegioes\obj\Debug\CodigoRegioes.frmcodigo.resources
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\Projeto\CodigoRegioes\CodigoRegioes\obj\Debug\CodigoRegioes.Properties.Resources.resources
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\Projeto\CodigoRegioes\CodigoRegioes\obj\Debug\CodigoRegioes.csproj.GenerateResource.cache
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\Projeto\CodigoRegioes\CodigoRegioes\obj\Debug\CodigoRegioes.csproj.CoreCompileInputs.cache
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\Projeto\CodigoRegioes\CodigoRegioes\bin\Debug\CodigoRegioes.exe.config
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\Projeto\CodigoRegioes\CodigoRegioes\bin\Debug\CodigoRegioes.exe
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\Projeto\CodigoRegioes\CodigoRegioes\bin\Debug\CodigoRegioes.pdb
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\Projeto\CodigoRegioes\CodigoRegioes\obj\Debug\CodigoRegioes.exe
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\Projeto\CodigoRegioes\CodigoRegioes\obj\Debug\CodigoRegioes.pdb
