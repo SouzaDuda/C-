@@ -1,0 +1,13 @@
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\exercicio1\exercicio1\bin\Debug\exercicio1.exe.config
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\exercicio1\exercicio1\bin\Debug\exercicio1.exe
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\exercicio1\exercicio1\bin\Debug\exercicio1.pdb
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\exercicio1\exercicio1\obj\Debug\exercicio1.csproj.AssemblyReference.cache
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\exercicio1\exercicio1\obj\Debug\exercicio1.Form1.resources
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\exercicio1\exercicio1\obj\Debug\exercicio1.Properties.Resources.resources
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\exercicio1\exercicio1\obj\Debug\exercicio1.csproj.GenerateResource.cache
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\exercicio1\exercicio1\obj\Debug\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\exercicio1\exercicio1\obj\Debug\exercicio1.exe
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\exercicio1\exercicio1\obj\Debug\exercicio1.pdb
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\Carro\exercicio1\exercicio1\obj\Debug\exercicio1.csproj.AssemblyReference.cache
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\Carro\exercicio1\exercicio1\obj\Debug\exercicio1.exe
+C:\Users\2JD\Desktop\Vitor - Maria Eduarda - 2º JD\Carro\exercicio1\exercicio1\obj\Debug\exercicio1.pdb
