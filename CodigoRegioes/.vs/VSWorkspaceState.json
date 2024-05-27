@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CodigoRegioes"
+    "\\CodigoRegioes",
+    "\\CodigoRegioes\\bin",
+    "\\CodigoRegioes\\obj",
+    "\\CodigoRegioes\\Properties"
   ],
-  "SelectedNode": "\\CodigoRegioes\\Form1.cs",
+  "SelectedNode": "\\CodigoRegioes\\Form1.resx",
   "PreviewInSolutionExplorer": false
 }
